@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\bin\Debug\netcoreapp3.1\RemoveFileBomMark.exe
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\bin\Debug\netcoreapp3.1\RemoveFileBomMark.deps.json
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\bin\Debug\netcoreapp3.1\RemoveFileBomMark.runtimeconfig.json
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\bin\Debug\netcoreapp3.1\RemoveFileBomMark.runtimeconfig.dev.json
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\bin\Debug\netcoreapp3.1\RemoveFileBomMark.dll
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\bin\Debug\netcoreapp3.1\RemoveFileBomMark.pdb
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\obj\Debug\netcoreapp3.1\RemoveFileBomMark.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\obj\Debug\netcoreapp3.1\RemoveFileBomMark.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\obj\Debug\netcoreapp3.1\RemoveFileBomMark.AssemblyInfo.cs
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\obj\Debug\netcoreapp3.1\RemoveFileBomMark.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\obj\Debug\netcoreapp3.1\RemoveFileBomMark.dll
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\obj\Debug\netcoreapp3.1\RemoveFileBomMark.pdb
+C:\Users\admin\Desktop\RemoveFileBomMark\RemoveFileBomMark\obj\Debug\netcoreapp3.1\RemoveFileBomMark.genruntimeconfig.cache
