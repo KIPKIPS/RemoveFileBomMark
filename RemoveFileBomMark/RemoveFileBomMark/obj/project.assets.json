@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\RemoveFileBomMark\\RemoveFileBomMark\\RemoveFileBomMark.csproj",
+      "projectUniqueName": "D:\\Github\\RemoveFileBomMark\\RemoveFileBomMark\\RemoveFileBomMark\\RemoveFileBomMark.csproj",
       "projectName": "RemoveFileBomMark",
-      "projectPath": "C:\\Users\\admin\\Desktop\\RemoveFileBomMark\\RemoveFileBomMark\\RemoveFileBomMark.csproj",
+      "projectPath": "D:\\Github\\RemoveFileBomMark\\RemoveFileBomMark\\RemoveFileBomMark\\RemoveFileBomMark.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\RemoveFileBomMark\\RemoveFileBomMark\\obj\\",
+      "outputPath": "D:\\Github\\RemoveFileBomMark\\RemoveFileBomMark\\RemoveFileBomMark\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
